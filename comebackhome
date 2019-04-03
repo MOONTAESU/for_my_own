@@ -1,0 +1,6 @@
+#pragma warning (disable : 4996)
+#include <stdio.h>
+
+void main(){
+printf("I want to go home right now");
+}
